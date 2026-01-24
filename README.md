@@ -29,8 +29,3 @@ and an extensive ablation study.
 - scikit-learn
 - Gensim
 - Matplotlib
-
-Install all dependencies using:
-```bash
-pip install -r requirements.txt
-
