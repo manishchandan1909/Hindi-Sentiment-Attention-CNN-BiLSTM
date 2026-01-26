@@ -27,8 +27,7 @@ and an extensive ablation study.
   review sentences and is publicly available via Kaggle and the official IIT Patna NLP
   resources page. To enhance data diversity and robustness, the dataset was further
   augmented by manually collecting additional Hindi product reviews from e-commerce
-  platforms, primarily Flipkart. Due to redistribution constraints, the
-  complete augmented dataset is not included in this repository.
+  platforms, primarily Flipkart. The complete augmented dataset is not included in this repository.
   
   The IIT Patna Hindi Product Review Dataset can be obtained from:
   - Kaggle: https://www.kaggle.com/datasets/warcoder/iit-patna-product-reviews/data
