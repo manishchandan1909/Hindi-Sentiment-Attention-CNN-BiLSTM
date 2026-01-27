@@ -21,13 +21,12 @@ and an extensive ablation study.
   multilingual BERT (mBERT) and XLM-RoBERTa (XLM-R), using identical training–testing splits
   and evaluation metrics as reported in the manuscript.
 
-- `data/`  
-  Placeholder directory for datasets used in this study. The experiments initially utilize
-  the Hindi Product Review Dataset released by IIT Patna, which contains 5,417 annotated
+- `Augmented_Hinid_Product_Review_Dataset.csv`  
+  The experiments initially utilize the Hindi Product Review Dataset released by IIT Patna, which contains 5,417 annotated
   review sentences and is publicly available via Kaggle and the official IIT Patna NLP
   resources page. To enhance data diversity and robustness, the dataset was further
   augmented by manually collecting additional Hindi product reviews from e-commerce
-  platforms, primarily Flipkart. The complete augmented dataset is not included in this repository.
+  platforms, primarily Flipkart. This file provide the complete augmented dataset.
   
   The IIT Patna Hindi Product Review Dataset can be obtained from:
   - Kaggle: https://www.kaggle.com/datasets/warcoder/iit-patna-product-reviews/data
