@@ -26,12 +26,14 @@ and an extensive ablation study.
   review sentences and is publicly available via Kaggle and the official IIT Patna NLP
   resources page. To enhance data diversity and robustness, the dataset was further
   augmented by manually collecting additional Hindi product reviews from e-commerce
-  platforms, primarily Flipkart. This file provide the complete augmented dataset.
+  platforms, primarily Flipkart. The final augmented dataset comprises 41,682 reviews, including 20,757 positive and 20,925   negative instances. Providing the more diverse benchmark for Hindi sentiment classification.
   
   The IIT Patna Hindi Product Review Dataset can be obtained from:
   - Kaggle: https://www.kaggle.com/datasets/warcoder/iit-patna-product-reviews/data
   - IIT Patna NLP Resources: http://www.iitp.ac.in/~ai-nlp-ml/resources.html
 
+- `Acknowledgements`
+We acknowledge IIT Patna for providing the original Hindi Product Review Dataset. Additional reviews were collected from Flipkart and manually curated exclusively for academic research and non-commercial use.
 
 
 ## Requirements
