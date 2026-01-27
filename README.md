@@ -33,7 +33,7 @@ and an extensive ablation study.
   - IIT Patna NLP Resources: http://www.iitp.ac.in/~ai-nlp-ml/resources.html
 
 - `Acknowledgements`
-We acknowledge IIT Patna for providing the original Hindi Product Review Dataset. Additional reviews were collected from Flipkart and manually curated exclusively for academic research and non-commercial use.
+  We acknowledge IIT Patna for providing the original Hindi Product Review Dataset. Additional reviews were collected from    Flipkart and manually curated exclusively for academic research and non-commercial use.
 
 
 ## Requirements
