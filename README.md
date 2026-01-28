@@ -20,6 +20,10 @@ and an extensive ablation study.
   Scripts for direct comparison with transformer-based baseline models, including
   multilingual BERT (mBERT) and XLM-RoBERTa (XLM-R), using identical training–testing splits
   and evaluation metrics as reported in the manuscript.
+  
+- `Statistical_Analysis_Hindi.py`  
+  Script for performing paired statistical significance tests between the proposed model
+  and baseline approaches using prediction outputs.
 
 - `Augmented_Hinid_Product_Review_Dataset.csv`  
   The experiments initially utilize the Hindi Product Review Dataset released by IIT Patna, which contains 5,417 annotated
